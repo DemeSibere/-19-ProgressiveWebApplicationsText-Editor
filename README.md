@@ -48,23 +48,30 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
+## Installation
+
+Run npm install through terminal
+Run npm run start through terminal
+Navigate to localhost:3000
+
+
 ## Mock-Up
 
 The following animation demonstrates the application functionality:
 
-![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](./Assets/00-demo.gif)
+![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](./Assets/Demo.gif)
 
 The following image shows the application's `manifest.json` file:
 
-![Demonstration of the finished Module 19 Challenge with a manifest file in the browser.](./Assets/01-manifest.png)
+![Demonstration of the finished Module 19 Challenge with a manifest file in the browser.](./Assets/Manifest.png)
 
 The following image shows the application's registered service worker:
 
-![Demonstration of the finished Module 19 Challenge with a registered service worker in the browser.](./Assets/02-service-worker.png)
+![Demonstration of the finished Module 19 Challenge with a registered service worker in the browser.](./Assets/ServiceWork.png)
 
 The following image shows the application's IndexedDB storage:
 
-![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
+![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/localstorage.png)
 
 ## Grading Requirements
 
